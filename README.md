@@ -1,7 +1,9 @@
 # semscho_chrome
 
 ## Installation
-Open the Google Chrome  browser.
+1. Download semscho_chrome_v1.0.zip
+
+2. Open the Google Chrome browser.
 
 Click on the three-dot menu (⋮) in the top-right corner of the browser window, and then navigate to "More tools" > "Extensions."
 
