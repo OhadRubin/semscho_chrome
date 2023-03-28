@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Citation Counter",
+    "version": "1.0",
+    "description": "Appends the number of citations for each name found on a page.",
+    "content_scripts": [{
+        "matches": [
+            "<all_urls>"
+        ],
+        "js": [
+            "contentScript.js"
+        ]
+    }]
+}
